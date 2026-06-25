@@ -8,6 +8,8 @@ Product Analytics • A/B Testing • Statistics • ETL
 
 Dashboarding • Data Visualization • Business Intelligence
 
+## About me
+
 I`m a Data Analyst with experience in business reporting automation,
 SQL analytics and dashboard development.
 
