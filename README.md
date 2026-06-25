@@ -40,7 +40,7 @@ Product analytics project for a scooter-sharing service.
 - Product Metrics
 - Business Recommendations
 
-➡ **Repository:** `gofast-subscription-analysis`
+**Repository:** `gofast-subscription-analysis`
 
 ---
 
@@ -56,7 +56,7 @@ Business analysis of historical video game sales to identify market trends and p
 - Data Visualization
 - Business Insights
 
-➡ **Repository:** `video-game-market-analysis`
+**Repository:** `video-game-market-analysis`
 
 ---
 
@@ -72,4 +72,4 @@ HR analytics project focused on predicting employee satisfaction and turnover.
 - Model Evaluation
 - Business Analytics
 
-➡ **Repository:** `employee-satisfaction-attrition-prediction`
+**Repository:** `employee-satisfaction-attrition-prediction`
