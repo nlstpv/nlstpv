@@ -40,7 +40,7 @@ Product analytics project for a scooter-sharing service.
 - Product Metrics
 - Business Recommendations
 
-**Repository:** `gofast-subscription-analysis`
+**Repository:** <a href=https://github.com/nlstpv/gofast-subscription-analysis> alt=`gofast-subscription-analysis` </a>
 
 ---
 
