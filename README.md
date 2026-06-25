@@ -56,7 +56,7 @@ Business analysis of historical video game sales to identify market trends and p
 - Data Visualization
 - Business Insights
 
-**Repository:** `video-game-market-analysis`
+**Repository:** <a href=https://github.com/nlstpv/video-game-market-analysis> `gofast-subscription-analysis` </a>
 
 ---
 
@@ -72,4 +72,4 @@ HR analytics project focused on predicting employee satisfaction and turnover.
 - Model Evaluation
 - Business Analytics
 
-**Repository:** `employee-satisfaction-attrition-prediction`
+**Repository:** <a href=https://github.com/nlstpv/employee-satisfaction-attrition-prediction> `gofast-subscription-analysis` </a>
