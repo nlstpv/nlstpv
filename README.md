@@ -1,16 +1,13 @@
-# Hi, I'm Nick 👋
+# Hi, I'm Nikita 👋
 
-Data Analyst
+Data Analyst | Python | SQL | Power BI
 
-## Stack
+I am a Data Analyst with experience in business reporting automation,
+SQL analytics and dashboard development.
 
-- SQL
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- PostgreSQL
-- Power BI
+Currently looking for an Intern / Junior Data Analyst position.
 
-## Projects
+Interested in product analytics, experimentation and business intelligence.
 
+## Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
