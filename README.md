@@ -1,4 +1,4 @@
-# Hi, I'm Nikita 👋
+# Hi, I'm Nick 👋
 
 Data Analyst | Python | SQL | Power BI
 
