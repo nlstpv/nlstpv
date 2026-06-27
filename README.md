@@ -4,7 +4,7 @@
 
 Data Analysis • SQL • Python • Power BI
 
-Product Analytics • A/B Testing • Statistics • ETL
+Product Analytics • A/B Testing • Statistics • ETL • Machine Learning
 
 Dashboarding • Data Visualization • Business Intelligence
 
@@ -13,9 +13,7 @@ Dashboarding • Data Visualization • Business Intelligence
 I`m a Data Analyst with experience in business reporting automation,
 SQL analytics and dashboard development.
 
-Currently looking for an Intern / Junior Data Analyst position.
-
-Interested in product analytics, business intelligence and data-driven decision making.
+Interested in product analytics, machine learning, business intelligence and data-driven decision making.
 
 ## Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="py" width="45" height="45"/>&nbsp;
